@@ -3,7 +3,7 @@
 <img src="https://files.catbox.moe/vhv1xp.jpg" width="200" alt="@xinz21">
 </a>
 <p align="center">
-  <a href="https://github.com/Xinz21"><img src="http://readme-typing-svg.herokuapp.com?color=7FFF00&center=true&vCenter=true&multiline=false&lines=Welcome +To + My+ Github+ Profile;Welcome To My Github Profile" alt="Ehe~">
+  <a href="https://github.com/Xinz21"><img src="http://readme-typing-svg.herokuapp.com?color=7FFF00&center=true&vCenter=true&multiline=false&lines=XinZ;Welcome To My Github Profile" alt="Ehe~">
 </p> 
     
 ##
