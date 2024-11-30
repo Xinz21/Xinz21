@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://github.com/Xinz21"><img src="http://readme-typing-svg.herokuapp.com?color=7FFF00&center=true&vCenter=true&multiline=false&lines=Welcome+To+My+Github+Profile;Welcome To My Github Profile" alt="Ehe~">
 </p> 
+    
 ##
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/6288802101736)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/takashiizuki0/)
