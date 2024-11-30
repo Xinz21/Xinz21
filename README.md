@@ -9,6 +9,5 @@
 - 🛠️ *Replit:* [![Replit](https://img.shields.io/badge/Replit-667881?style=flat&logo=replit&logoColor=white)](https://replit.com/@lanzx20])
 - 🌐 *Vercel:* [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/[username_Vercel_kamu])
 
-## 📈 My Statistik
-![Statistik Github] (https://github-readme-stats.vercel.app/api?username=xinz21&show_icons=true&theme=radical)
-##
+## 📈 My statistik
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=xinz21&show_icons=true&theme=radical)
