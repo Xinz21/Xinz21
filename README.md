@@ -1,6 +1,6 @@
 # 👋 Welcome
 <a href="https://github.com/xinz21">
-<img src="https://camo.githubusercontent.com/https://files.catbox.moe/vhv1xp.jpg" width="200" alt="@xinz21">
+<img src="https://files.catbox.moe/vhv1xp.jpg" width="200" alt="@xinz21">
 </a>
 
 - 📱 *WhatsApp:* [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/6288802101736)
