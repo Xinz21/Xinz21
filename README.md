@@ -1,6 +1,6 @@
 # 
 <p align='center'>
-<img src='https://github-widgetbox.vercel.app/api/profile?username=xinz21' />
+<img src='https://github-widgetbox.vercel.app/api/profile?username=xinz21&data' />
 </p>
 
 <p align="center">
