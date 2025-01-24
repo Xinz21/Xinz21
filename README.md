@@ -1,7 +1,8 @@
 # 
-<a href="https://github.com/xinz21">
-<img src="https://files.catbox.moe/vhv1xp.jpg" width="200" alt="@xinz21">
-</a>
+<p align='center'>
+<img src='https://github-widgetbox.vercel.app/api/profile?username=xinz21&data=followers,repositories,stars,commits' />
+</p>
+
 <p align="center">
   <a href="https://github.com/Xinz21"><img src="http://readme-typing-svg.herokuapp.com?color=7FFF00&center=true&vCenter=true&multiline=false&lines=Welcome+To+My+Github+Profile;XinZ" alt="Ehe~">
 </p> 
