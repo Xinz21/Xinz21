@@ -17,11 +17,3 @@
 
 ##  My statistik
 ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=xinz21&show_icons=true&theme=radical)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="/github-contribution-grid-snake.svg"/>
-    <img src="/github-contribution-grid-snake.svg" alt="github-snake"/>
-  </picture>
-</div>
