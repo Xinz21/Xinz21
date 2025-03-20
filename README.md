@@ -22,7 +22,7 @@ just a newbie
 ![Trophy](https://github-profile-trophy.vercel.app/?username=xinz21&theme=nightowl&row=1)
 
 ---
-## Contact Me
+## 👥 Contact Me
  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/6281319810300)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/takashiizuki0/)
  
