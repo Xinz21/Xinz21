@@ -3,20 +3,17 @@
   <a href="https://github.com/Xinz21"><img src="http://readme-typing-svg.herokuapp.com?color=7FFF00&center=true&vCenter=true&multiline=false&lines=Welcome+To+My+Github+Profile;XinZ" alt="Ehe~">
 </p>
 
-<p align="center">
-    <a href="https://github.com/Xinz21"><img src="http://readme-typing-svg.herokuapp.com?color=7FFF00&center=true&vCenter=true&multiline=false&lines=Welcome+To+My+Github+Profile;XinZ" alt="Ehe~">
-</p> 
-      
+  <p align='center'>
+<img src='https://github-widgetbox.vercel.app/api/profile?username=xinz21&data=stars' />
+</p>
+
 just a newbie
 
 ![Profile Views](https://komarev.com/ghpvc/?username=xinz21&color=blueviolet)
 
 ---
 ## 🛠️ Tech Stack
-![javascript](https://img.shields.io/badge/-javascript-05122A?style=flat&logo=javascript) ![react](https://img.shields.io/badge/-react-05122A?style=flat&logo=react) ![html](https://img.shields# 
-<p align='center'>
-<img src='https://github-widgetbox.vercel.app/api/profile?username=xinz21&data=stars' />
-</p>
+![javascript](https://img.shields.io/badge/-javascript-05122A?style=flat&logo=javascript) ![react](https://img.shields.io/badge/-react-05122A?style=flat&logo=react) ![html](https://img.shields.io/badge/-html-05122A?style=flat&logo=html) ![typescript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript) ![nodejs](https://img.shields.io/badge/-nodejs-05122A?style=flat&logo=nodejs) ![css](https://img.shields.io/badge/-css-05122A?style=flat&logo=css) ![php](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)
 
 ---
 ## 📊 My statistik
