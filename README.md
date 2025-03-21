@@ -17,6 +17,15 @@ just a newbie
 
 ---
 ## 📊 My statistik
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xinz21&theme=nightowl" alt="Profile Details" style="width: 100%; max-width: 500px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xinz21&theme=nightowl" alt="Repos per Language" style="width: 48%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xinz21&theme=nightowl" alt="Most Commit Language" style="width: 48%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xinz21&theme=nightowl" alt="Stats" style="width: 48%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xinz21&theme=nightowl&utcOffset=8" alt="Productive Time" style="width: 48%; max-width: 300px;">
+</div>
+
 ![xinz21's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinz21&show_icons=true&theme=nightowl)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xinz21&layout=compact&theme=nightowl)
