@@ -38,7 +38,7 @@ const markCommit = (x, y) => {
     date: date,
     commit: {
       message: `Commit on ${date}`,
-      author: "latesturltech@gmail.com",
+      author: "gabutmasbro1@gmail.com",
       branch: "main",
     },
   };
@@ -63,7 +63,7 @@ const makeCommits = (n) => {
     date: date,
     commit: {
       message: `Commit #${n} on ${date}`,
-      author: "latesturltech@gmail.com",
+      author: "gabutmasbro1@gmail.com",
       branch: "main",
     },
   };
