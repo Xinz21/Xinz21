@@ -9,7 +9,15 @@
 </p>
 
 ```
-students
+{
+  "Name": "Arkan",
+  "Nickname": "kXinzX21",
+  "Status": "Student",
+  "Location": "Jakarta, Jawa Barat, Indonesia",
+  "Age": "...",
+  "Hobbies": "debugging, and basketball",
+  "Birthday": "04/16"
+}
 ```
 
 ---
