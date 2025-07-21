@@ -15,7 +15,7 @@
   "Status": "Student",
   "Location": "Jakarta, Jawa Barat, Indonesia",
   "Age": "...",
-  "Hobbies": "debugging, and basketball",
+  "Hobbies": "d",
   "Birthday": "04/16"
 }
 ```
